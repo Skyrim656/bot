@@ -1,0 +1,11 @@
+{
+    "token":"ODYwNzk1NzM2NjM0Mjk0MzEy.YOAcgA.OFGjtqffKSVrptvFX5fh16Kdo3k",
+    "prefix":"!",
+    "color":"#2F3136",
+    "colorError":"#fc0303",
+    "colorSucces":"#04ff00",
+    "greeting": {
+        "channel": "860065551068954635",
+        "role": "860098148861214730"
+    }
+}

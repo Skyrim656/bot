@@ -1,0 +1,17 @@
+{
+  "name": "bot-azuriom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Skyrim",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "tcp-ping": "^0.1.1"
+  }
+}
